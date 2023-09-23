@@ -503,7 +503,7 @@ function edina_tm_animate_text() {
 	var animateSpan = jQuery('.edina_tm_animation_text_word');
 
 	animateSpan.typed({
-		strings: ["SOFTWARE ENGINEER", "THE HAPPY CYCLIST", "PHOTOGRAPHER", 'A DIGITAL NOMADS'],
+		strings: ["SOFTWARE ENGINEER Based in Orlando, FL"],
 		loop: true,
 		showCursor: false,
 		startDelay: 1e3,
